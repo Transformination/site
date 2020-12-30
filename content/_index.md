@@ -10,9 +10,7 @@ page_sections:
   - link_url: "/"
     link_text: Home
   - link_url: "#"
-    link_text: Features
-  - link_url: "#"
-    link_text: Jonas
+    link_text: Projects
   - link_url: "#"
     link_text: Team
   cta:
